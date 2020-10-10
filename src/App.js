@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This will get displayed at react app. Making some more changes
-          <br></br>
+          This will get displayed at react app.
+          Faltu Changes
           Hello how are you
         </p>
         <a
